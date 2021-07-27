@@ -5,13 +5,12 @@ My name is Shalev Hadar, I'm a student of computer science (B.Sc.) and this is m
 One of my favorite TV-Show is 'Rick and Morty', so the greeting prints are from a bot call 'MrMeeseeks'.
 a bot that receives requests, does them, and then disappears.
 
-
-
 * The whole project is based on Java programming language.
 * Using SOLID principles with Abstract Factory design pattern (in AbstractMatrix & StandardMatrix classes).
 * Liskov substitution is being used a lot in this project in many if not all classes.
 * The Server is thread-safe and each time you run a task you can watch your thread's usage in the TCP tab.
 
+To run the server: Run TcpServer then run client.
 
 The main goal of this project:
 * The server will open a socket for the client
